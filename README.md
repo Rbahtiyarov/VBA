@@ -1,4 +1,4 @@
-# VBA
+# Создание письма с темой и сообщением
 Public Sub CreateMail()
 Dim MyEmail As MailItem
 ' Create a new Outlook message item programatically
